@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "name": "Evan",
+      "department": "1",
+      "computer": "1",
+      "id": 1
+    },
+    {
+      "name": "Doug",
+      "department": "2",
+      "computer": "2",
+      "id": 2
+    }
+  ],
+  "departments": [
+    {
+      "name": "redundancy",
+      "id": 1
+    },
+    {
+      "name": "A1",
+      "id": 2
+    }
+  ],
+  "computers": [
+    {
+      "name": "Tandy TRS-80",
+      "id": 1
+    },
+    {
+      "name": "Terminal001",
+      "id": 2
+    }
+  ]
+}
